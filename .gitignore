@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Local video/model/training artifacts
+*.mp4
+*.pt
+tracked_bus_people*.csv
+preview_frame_*.jpg
+bus_head_dataset/
+runs/
